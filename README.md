@@ -74,9 +74,6 @@ SyncSphere empowers users to log fitness activities with GPS route visualization
 | 5     | Optimization & Deployment      | 📅 Planned    |
 
 ## 🚀 Future Enhancements  
-- 🤖 **AI-powered analytics** for performance insights.  
-- ⌚ **Wearable device integration** (Fitbit, Garmin, Apple Health).  
+- 🤖 **AI-powered analytics** for performance insights.    
 - 🔥 **Heatmaps** for activity density visualization.  
 - 📱 **Native mobile apps** for iOS and Android.  
-
-## 📁 Repository Structure  
